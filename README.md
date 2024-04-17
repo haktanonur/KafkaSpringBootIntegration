@@ -1,4 +1,4 @@
-# Spring Boot & Kafka Project
+# Spring Boot & Kafka Wikimedia Project
 This is a sample Spring Boot project that demonstrates the integration of Kafka with a Spring Booot application.
 
 ## Requirements
